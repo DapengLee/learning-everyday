@@ -20,3 +20,6 @@
 7.一直在关注的超牛逼的文件下载框架[FileDownloader](https://github.com/lingochamp/FileDownloader)的学习
 
 8.关于下拉刷新上拉加载的demo:[Cnode](https://github.com/TakWolf/CNode-Material-Design/)学习下
+
+##2016.04.24
+* 发现一个CollapsingCenterLayout扩展的库，可以是ToolBar的文字居中[CollapsingCenterLayout](https://github.com/anzewei/Android-DesignEx),学习下。
