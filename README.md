@@ -23,3 +23,6 @@
 
 ##2016.04.24
 * 发现一个CollapsingCenterLayout扩展的库，可以是ToolBar的文字居中[CollapsingCenterLayout](https://github.com/anzewei/Android-DesignEx),学习下。
+
+###2016.05.04
+* 发现一个比较炫酷的material-design风格app,里面的打开动画可以参考的学习下[点击查看](https://github.com/googlesamples/android-topeka)
