@@ -26,3 +26,6 @@
 
 ###2016.05.04
 * 发现一个比较炫酷的material-design风格app,里面的打开动画可以参考的学习下[点击查看](https://github.com/googlesamples/android-topeka)
+
+###2016.05.06
+* 最近使用到recycleview,想到对其进行封装，参考网上的轮子，发现一个对于RecyclerView的Header和Footer的[点击查看](https://github.com/cundong/HeaderAndFooterRecyclerView)
