@@ -31,5 +31,8 @@
 * 最近使用到recycleview,想到对其进行封装，参考网上的轮子，发现一个对于RecyclerView的Header和Footer的[点击查看](https://github.com/cundong/HeaderAndFooterRecyclerView)
 * 博客对于RecycleView封装的不错[点击查看](http://www.jianshu.com/users/f958e66439f0/latest_articles)
 
-###2016.02.12
+###2016.05.12
 * 发现一篇写的不错的博客地址[点击查看](http://blog.csdn.net/liaoinstan)
+
+###2016.05.15
+* 学习下这个类：[Scroller](http://developer.android.com/intl/zh-cn/reference/android/widget/Scroller.html)
