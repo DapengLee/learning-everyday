@@ -36,3 +36,8 @@
 
 ###2016.05.15
 * 学习下这个类：[Scroller](http://developer.android.com/intl/zh-cn/reference/android/widget/Scroller.html)
+
+###2016.06.14
+关于Recyclerview的封装优秀列子：
+* [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
+* [Smart-HeaderFooter-RecyclerView](https://github.com/songhanghang/Smart-HeaderFooter-RecyclerView)
