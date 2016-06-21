@@ -1,6 +1,11 @@
 #今日待完成
 这里是记录关于我每天浏览的一些干货信息
 
+###学习网站
+* [stay4it](http://www.stay4it.com/)
+* [codekk](http://p.codekk.com/)
+* [xitu](http://gold.xitu.io/)
+
 ##2016.04.13
 1.[妹子Android源码分析](http://www.jianshu.com/p/47e72693a302)，[github地址](https://github.com/drakeet/Meizhi),仿照妹纸自己学一个[FMeizhi](https://github.com/baoyachi/fmeizhi)
 
