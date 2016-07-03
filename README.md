@@ -7,8 +7,10 @@
 * [xitu](http://gold.xitu.io/)
 * [【自定义view】](http://blog.csdn.net/lfdfhl/)
 * [【自定义view】](https://github.com/GcsSloop/AndroidNote)
+
 ###【RxJava】
 * [【piasy】](http://blog.piasy.com/AdvancedRxJava/)
+
 ###【Dagger2】
 * [【dagger2Demo】](https://github.com/luxiaoming/dagger2Demo)
 
