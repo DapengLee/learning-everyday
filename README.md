@@ -5,7 +5,12 @@
 * [stay4it](http://www.stay4it.com/)
 * [codekk](http://p.codekk.com/)
 * [xitu](http://gold.xitu.io/)
-* [自定义view](http://blog.csdn.net/lfdfhl/)
+* [【自定义view】](http://blog.csdn.net/lfdfhl/)
+* [【自定义view】](https://github.com/GcsSloop/AndroidNote)
+###【RxJava】
+* [【piasy】](http://blog.piasy.com/AdvancedRxJava/)
+###【Dagger2】
+* [【dagger2Demo】](https://github.com/luxiaoming/dagger2Demo)
 
 ##2016.04.13
 1.[妹子Android源码分析](http://www.jianshu.com/p/47e72693a302)，[github地址](https://github.com/drakeet/Meizhi),仿照妹纸自己学一个[FMeizhi](https://github.com/baoyachi/fmeizhi)
