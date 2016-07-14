@@ -54,3 +54,12 @@
 关于Recyclerview的封装优秀列子：
 * [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
 * [Smart-HeaderFooter-RecyclerView](https://github.com/songhanghang/Smart-HeaderFooter-RecyclerView)
+* //TODO [SuperRecyclerView](https://github.com/jdsjlzx/SuperRecyclerView)，博客地址：http://blog.csdn.net/jdsjlzx/article/details/51794220
+
+###2016.07.14
+关于网络分析，今天看到几篇关于分析OkHttp和Retrofit优秀文章
+* [【拆 Retrofit】](http://blog.piasy.com/2016/06/25/Understand-Retrofit/)
+* [【Stay Retrofit分析-经典设计模式案例】](http://www.jianshu.com/p/fb8d21978e38)
+* [【拆 OkHttp】](http://blog.piasy.com/2016/07/11/Understand-OkHttp/)
+
+
