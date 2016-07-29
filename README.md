@@ -65,9 +65,9 @@
 ###2016.07.29
 关于自定义控件系列的博客，还没看，先存起来
 * [【自定义控件】](http://blog.csdn.net/harvic880925/article/details/50995268)
-* 【Dagger篇】
 
-    1.[http://blog.csdn.net/u012943767/article/details/51897247](http://blog.csdn.net/u012943767/article/details/51897247)
-    2.[https://dreamerhome.github.io/2016/07/07/dagger/](https://dreamerhome.github.io/2016/07/07/dagger/)
+####【Dagger篇】
+* [Dagger2 这次入门就不用放弃了](http://blog.csdn.net/u012943767/article/details/51897247)
+* [看完老奶奶都会用的Dagger2](https://dreamerhome.github.io/2016/07/07/dagger/)
 
 
