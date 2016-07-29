@@ -62,4 +62,12 @@
 * [【Stay Retrofit分析-经典设计模式案例】](http://www.jianshu.com/p/fb8d21978e38)
 * [【拆 OkHttp】](http://blog.piasy.com/2016/07/11/Understand-OkHttp/)
 
+###2016.07.29
+关于自定义控件系列的博客，还没看，先存起来
+* [【自定义控件】](http://blog.csdn.net/harvic880925/article/details/50995268)
+* 【Dagger篇】
+
+    1.[http://blog.csdn.net/u012943767/article/details/51897247](http://blog.csdn.net/u012943767/article/details/51897247)
+    2.[https://dreamerhome.github.io/2016/07/07/dagger/](https://dreamerhome.github.io/2016/07/07/dagger/)
+
 
