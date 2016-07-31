@@ -65,6 +65,8 @@
 ###2016.07.29
 关于自定义控件系列的博客，还没看，先存起来
 * [【自定义控件】](http://blog.csdn.net/harvic880925/article/details/50995268)
+* [【PathMeasure之迷径追踪】](http://www.jianshu.com/p/3efa5341abcc)
+* [【PathMeasure实践-自定义CheckBox】](http://www.jianshu.com/p/fd97dad39201)
 
 ####【Dagger篇】
 * [Dagger2 这次入门就不用放弃了](http://blog.csdn.net/u012943767/article/details/51897247)
