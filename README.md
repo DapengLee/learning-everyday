@@ -75,5 +75,8 @@
 ####【发现了一篇Scroller的好文】 
 * [【看完大小姐也知道的Scroller】](https://github.com/Idtk/Blog/blob/master/Blog/8%E3%80%81Scroll.md)
 
+###2016.08.01
+* [【超级详细的Android面试集锦】](http://www.diycode.cc/wiki/androidinterview)
+
 
 
