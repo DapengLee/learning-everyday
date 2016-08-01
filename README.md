@@ -72,4 +72,8 @@
 * [Dagger2 这次入门就不用放弃了](http://blog.csdn.net/u012943767/article/details/51897247)
 * [看完老奶奶都会用的Dagger2](https://dreamerhome.github.io/2016/07/07/dagger/)
 
+####【发现了一篇Scroller的好文】 
+* [【看完大小姐也知道的Scroller】](https://github.com/Idtk/Blog/blob/master/Blog/8%E3%80%81Scroll.md)
+
+
 
