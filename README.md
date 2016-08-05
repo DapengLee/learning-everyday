@@ -78,5 +78,9 @@
 ###2016.08.01
 * [【超级详细的Android面试集锦】](http://www.diycode.cc/wiki/androidinterview)
 
+###2016.08.05
+* [【java8-入门的lambda表达式】](http://blog.csdn.net/dd864140130/article/details/50603420)
+
+
 
 
