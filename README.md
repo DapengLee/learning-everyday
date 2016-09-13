@@ -14,6 +14,11 @@
 ###【Dagger2】
 * [【dagger2Demo】](https://github.com/luxiaoming/dagger2Demo)
 
+###【kotlin】 
+* [【使用 Kotlin 和 Anko 的安卓开发入门】](https://realm.io/cn/news/getting-started-with-kotlin-and-anko/)
+* [【Kotlin-in-Chinese】](https://www.gitbook.com/book/huanglizhuo/kotlin-in-chinese/details)
+
+
 ##2016.04.13
 1.[妹子Android源码分析](http://www.jianshu.com/p/47e72693a302)，[github地址](https://github.com/drakeet/Meizhi),仿照妹纸自己学一个[FMeizhi](https://github.com/baoyachi/fmeizhi)
 
