@@ -87,6 +87,9 @@
 * [【java8-入门的lambda表达式】](http://blog.csdn.net/dd864140130/article/details/50603420)
 * [【Android运行时Crash自动恢复框架】](http://zhengxiaoyong.me/2016/09/05/Android%E8%BF%90%E8%A1%8C%E6%97%B6Crash%E8%87%AA%E5%8A%A8%E6%81%A2%E5%A4%8D%E6%A1%86%E6%9E%B6-Recovery/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+###2016.10.14
+* [android性能优化](http://www.jianshu.com/p/4f10c9a10ac9)
+
 
 
 
