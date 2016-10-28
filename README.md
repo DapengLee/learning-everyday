@@ -1,5 +1,20 @@
-#今日待完成
+#收集干货
 这里是记录关于我每天浏览的一些干货信息
+
+#Material Design
+Material Design收集
+
+* [material](https://github.com/rey5137/material)
+* [materialdoc](https://github.com/materialdoc/materialdoc)
+* [Plaid](https://github.com/nickbutcher/plaid)
+* [https://github.com/mikepenz/FastAdapter](https://github.com/mikepenz/FastAdapter)
+* [MaterialTapTargetPrompt](https://github.com/sjwall/MaterialTapTargetPrompt)
+* [MaterialDesignColorPalette](https://github.com/HozakaN/MaterialDesignColorPalette)
+* [android-design-support-lib-demo](https://github.com/sagar-viradiya/android-design-support-lib-demo)
+* [MaterialStyledDialogs](https://github.com/javiersantos/MaterialStyledDialogs)
+
+
+
 
 ###学习网站
 * [stay4it](http://www.stay4it.com/)
